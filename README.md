@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Zablon Owino! 🚀
+## 👋 Hey, I'm Zablon! 🚀
 
 
 
