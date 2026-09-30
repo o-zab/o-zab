@@ -3,7 +3,7 @@
 
 
 ### 🌟 Who Am I?
-I'm a passionate **Computer Science** student, currently in my 3rd year at Masinde Muliro University of Science and Technology in Kenya. With a strong foundation in **Data Science**, **Cybersecurity**, **AI**, and **Blockchain**, I'm constantly working on exciting projects that blend these technologies.  
+I'm a passionate **Computer Science** undergrad with a strong foundation in **Data Science**, **Cybersecurity**, **AI**, and **Blockchain**, I'm constantly working on exciting projects that blend these technologies.  
 
 I have a broad skill set, including proficiency in programming languages like **Python**, **Java**, **R**, **C++**, and **C#**, and tools such as **TensorFlow**, **PyTorch**, **SQL**, and **Azure**. I also have a solid background in **data analytics**, **machine learning**, and **cloud technologies**.
 
